@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>govern obert</title>
+	<atom:link href="/opengovcat/es/feed/" rel="self" type="application/rss+xml" />
+	<link>/opengovcat/</link>
+	<description>Explorando la Generalitat</description>
+	<lastBuildDate>Wed, 06 Jan 2021 19:41:30 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+<site xmlns="com-wordpress:feed-additions:1">51645049</site>	<item>
+		<title>Esta página no se actualiza más</title>
+		<link>/opengovcat/es/2021/01/esta-pagina-no-se-actualiza-mas/</link>
+					<comments>/opengovcat/es/2021/01/esta-pagina-no-se-actualiza-mas/#respond</comments>
+		
+		<dc:creator><![CDATA[Martin Virtel]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2021 19:41:29 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">/opengovcat/?p=1490</guid>
+
+					<description><![CDATA[Este pequeño proyecto nació en un hackathon en la primavera de 2013. Nos propusimos investigar hasta dónde nos iba a <a class="read-more btn red" href="/opengovcat/es/2021/01/esta-pagina-no-se-actualiza-mas/">Llegir article sencer</a>]]></description>
+		
+					<wfw:commentRss>/opengovcat/es/2021/01/esta-pagina-no-se-actualiza-mas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1490</post-id>	</item>
+	</channel>
+</rss>

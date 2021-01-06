@@ -1,0 +1,255 @@
+/*
+Theme Name: opengovcat
+Theme URI: 
+Author: Albert Carles
+Author URI: http://www.albertcarles.com;
+Description: Tema de Wordpress per a Govern Obert
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: white, red, black, two-columns, right-sidebar, fixed-layout, responsive-layout
+Text Domain: opengovcat
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+main {
+	overflow:hidden;
+}
+
+.home section article {
+	height:525px;
+}
+
+
+.home section article h2 {
+	font-size: 1.17em;
+	line-height: 1.17em;
+    	margin: 1em 0px;
+	height:85px;
+}
+
+.home section article .signshare {
+	display:none;
+}
+
+.home section article:first-of-type {
+	margin-bottom:65px;
+	width:100%;
+	height:auto;
+	background-color: transparent;
+	float:none;
+}
+
+.home section article:first-of-type figure {
+	height:auto;
+	overflow:visible;
+}
+
+.home section article:first-of-type h2 {
+	font-size: 1.875em;
+	height:auto;
+}
+
+.home section article:first-of-type .signshare {
+	display:block;
+}
+
+.read-more {
+	margin-top:20px;
+}
+
+
+aside h2 {
+    font-size: 0.875em;
+}
+
+.sharedaddy {
+	display:none;
+}
+
+.navigation.pagination {
+	float:none;
+	width:100%;
+}
+
+.navigation.pagination h2 {
+	color:#808080;
+	font-size:1em;
+}
+
+div.nav-links {
+	text-align: center;
+	height:40px;
+}
+
+.page-numbers .meta-nav.screen-reader-text {
+    display:inline-block;
+    text-indent:200%;
+    overflow:hidden;
+    white-space:nowrap;
+    width:0px;
+}
+
+#search-2 .search-submit {
+    width:31px;
+    height:33px;
+    background-color: #ccc;
+    border:none;
+    float:left;
+    text-indent:-9999px;
+    white-space: nowrap;
+    overflow:hidden;
+    background-image:url('/opengovcat/wp-content/themes/opengovcat/img/sprites.svg');
+    background-position:-341px -24px;
+}
+
+#search-2 .screen-reader-text {
+    text-indent:200%;
+    overflow:hidden;
+    white-space:nowrap;
+}
+
+#subscribe-email {
+	margin-bottom:0px;
+}
+
+#subscribe-submit {
+	margin-top:0px;
+}
+
+#subscribe-submit input[type=submit] {
+	background: transparent none repeat scroll 0% 0%;
+	border: medium none;
+	font-family: gotham_black;
+	font-size: 0.8em;
+	text-transform: uppercase;
+	color: #D8003E;
+	float: right;
+}
+
+h1.entry-title {
+	line-height:1.2em;
+}
+
+header.entry-header {
+	background:transparent;
+}
+
+footer.entry-footer, 
+footer.comment-meta {
+	background:transparent;
+	width:100%;
+	height:auto;
+}
+
+h2.comments-title {
+	margin:50px 0px;
+}
+
+.avatar-56 {
+	width:56px;
+	height:56px;
+	float:left;
+	margin-right:10px;
+}
+
+.comment-metadata time {
+	font-size:0.8em;
+	margin-right:10px;
+}
+
+#comments ol {
+	list-style:none;
+}
+
+.comment-reply-link, .post-edit-link, .comment-edit-link {
+    display: inline-block;
+    height: 20px;
+    width: auto;
+    font-family: gotham_bold;
+    font-size: 0.875em;
+    text-align: left;
+    line-height: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 3px solid #D8003E;
+    color: #D8003E;
+    box-sizing: padding-box;
+    padding-left: 12px;
+    padding-right: 12px;
+    position: relative;
+    background-color: transparent;
+    white-space: nowrap;
+}
+
+footer.entry-footer {
+	margin-bottom:20px;
+}
+
+.comment-body {
+	padding-bottom:20px;
+	border-bottom:solid 1px #e6e6e6;
+}
+
+.post-navigation {
+	margin:50px 0px;
+}
+
+.post-navigation .meta-nav {
+	display:none;
+}
+
+.post-navigation .nav-previous {
+	background-image:none !important;
+	float:left;
+	width:50%;
+	text-align:left;
+}
+
+.post-navigation .nav-next {
+	background-image:none !important;
+	float:right;
+	width:50%;
+	text-align:right;
+}
+
+.post-navigation .nav-links a {
+	font-size:0.8em;
+}
+
+.post-navigation .nav-links .post-title {
+	color:#808080 !important;
+}
+
+aside aside {
+	width:100%;
+}
+
+@media screen and (max-width:480px) {
+	.single main {
+		margin-top:25px;
+	}
+
+	h1.entry-title {
+    		font-size: 1.55em;
+	}
+
+	article img {
+		height:auto;
+	}
+
+	.post-navigation .nav-previous {
+		width:40%;
+		line-height:1em;
+	}
+
+	.post-navigation .nav-next {
+		width:40%;
+		line-height:1em;
+	}
+}
+
+
+
+

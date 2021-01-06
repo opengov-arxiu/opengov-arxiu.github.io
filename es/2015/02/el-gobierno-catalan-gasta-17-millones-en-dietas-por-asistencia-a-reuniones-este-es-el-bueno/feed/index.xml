@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: El Gobierno catalán gasta 1,7 millones en dietas por asistencia a reuniones	</title>
+	<atom:link href="/opengovcat/es/2015/02/el-gobierno-catalan-gasta-17-millones-en-dietas-por-asistencia-a-reuniones-este-es-el-bueno/feed/" rel="self" type="application/rss+xml" />
+	<link>/opengovcat/es/2015/02/el-gobierno-catalan-gasta-17-millones-en-dietas-por-asistencia-a-reuniones-este-es-el-bueno/</link>
+	<description>Explorando la Generalitat</description>
+	<lastBuildDate>Mon, 26 Sep 2016 11:07:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+</channel>
+</rss>

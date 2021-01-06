@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: SISMOGRAF de la Generalitat	</title>
+	<atom:link href="/opengovcat/ca/sismograf/feed/" rel="self" type="application/rss+xml" />
+	<link>/opengovcat/</link>
+	<description>Explorant la Generalitat</description>
+	<lastBuildDate>Fri, 04 Sep 2015 14:45:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		Per: Taller i hackathó BIG DATA WEEK &#124; Big Bang Data		</title>
+		<link>/opengovcat/ca/sismograf/#comment-10</link>
+
+		<dc:creator><![CDATA[Taller i hackathó BIG DATA WEEK &#124; Big Bang Data]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2014 13:12:12 +0000</pubDate>
+		<guid isPermaLink="false">http://18.184.0.9/?page_id=638#comment-10</guid>
+
+					<description><![CDATA[[&#8230;] primer en sortir a l’estrada fou el “Sismógrafo de la Generalitat”, orientat a descriure els canvis en la estructura organitzacional de la Generalitat. L’equip [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] primer en sortir a l’estrada fou el “Sismógrafo de la Generalitat”, orientat a descriure els canvis en la estructura organitzacional de la Generalitat. L’equip [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

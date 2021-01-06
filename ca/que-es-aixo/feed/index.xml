@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: Depts. oberts	</title>
+	<atom:link href="/opengovcat/ca/que-es-aixo/feed/" rel="self" type="application/rss+xml" />
+	<link>/opengovcat/</link>
+	<description>Explorant la Generalitat</description>
+	<lastBuildDate>Sun, 13 Mar 2016 22:52:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		Per: Transparència al govern català &#124; Alambins - El Digital Català de Política i Societat		</title>
+		<link>/opengovcat/ca/que-es-aixo/#comment-66</link>
+
+		<dc:creator><![CDATA[Transparència al govern català &#124; Alambins - El Digital Català de Política i Societat]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2015 15:50:17 +0000</pubDate>
+		<guid isPermaLink="false">http://18.184.0.9/?page_id=141#comment-66</guid>
+
+					<description><![CDATA[[&#8230;] del Portal de Dades Obertes de la Generalitat de Catalunya en organigrames interactius de diversos Departaments del Govern. Arrel de poder tenir per primera vegada una imatge tan clara de les dimensions del poder públic [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] del Portal de Dades Obertes de la Generalitat de Catalunya en organigrames interactius de diversos Departaments del Govern. Arrel de poder tenir per primera vegada una imatge tan clara de les dimensions del poder públic [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

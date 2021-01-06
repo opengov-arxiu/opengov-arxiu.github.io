@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: opengov.cat i les Jornades de Periodisme #jpd14	</title>
+	<atom:link href="/opengovcat/ca/2014/04/opengov-cat-i-les-jornades-de-periodisme-jpd14/feed/" rel="self" type="application/rss+xml" />
+	<link>/opengovcat/ca/2014/04/opengov-cat-i-les-jornades-de-periodisme-jpd14/</link>
+	<description>Explorant la Generalitat</description>
+	<lastBuildDate>Sun, 27 Apr 2014 17:23:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		Per: Jornadas de Periodismo y Open Data		</title>
+		<link>/opengovcat/ca/2014/04/opengov-cat-i-les-jornades-de-periodisme-jpd14/#comment-6</link>
+
+		<dc:creator><![CDATA[Jornadas de Periodismo y Open Data]]></dc:creator>
+		<pubDate>Sun, 27 Apr 2014 17:23:45 +0000</pubDate>
+		<guid isPermaLink="false">http://18.184.0.9/?p=602#comment-6</guid>
+
+					<description><![CDATA[[&#8230;] puede consultar en diferentes idiomas en http://18.184.0.9/ y la presentación por aquí [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] puede consultar en diferentes idiomas en <a href="http://18.184.0.9/" rel="nofollow ugc">http://18.184.0.9/</a> y la presentación por aquí [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

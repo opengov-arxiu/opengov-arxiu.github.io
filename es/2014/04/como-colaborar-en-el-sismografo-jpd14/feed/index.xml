@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: ¿Cómo colaborar en el sismógrafo? #jpd14	</title>
+	<atom:link href="/opengovcat/es/2014/04/como-colaborar-en-el-sismografo-jpd14/feed/" rel="self" type="application/rss+xml" />
+	<link>/opengovcat/es/2014/04/como-colaborar-en-el-sismografo-jpd14/</link>
+	<description>Explorando la Generalitat</description>
+	<lastBuildDate>Sun, 27 Apr 2014 17:20:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		Por: Jornadas de Periodismo y Open Data		</title>
+		<link>/opengovcat/es/2014/04/como-colaborar-en-el-sismografo-jpd14/#comment-5</link>
+
+		<dc:creator><![CDATA[Jornadas de Periodismo y Open Data]]></dc:creator>
+		<pubDate>Sun, 27 Apr 2014 17:20:43 +0000</pubDate>
+		<guid isPermaLink="false">http://18.184.0.9/?p=619#comment-5</guid>
+
+					<description><![CDATA[[&#8230;] Concha Catalán presentó opengov.cat que describe la estructura administrativa del gobierno catalán así como sus cambios en el tiempo, mediante una herramienta en desarrollo -el sismógrafo- que busca colaboradores- programadores aquí. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Concha Catalán presentó opengov.cat que describe la estructura administrativa del gobierno catalán así como sus cambios en el tiempo, mediante una herramienta en desarrollo -el sismógrafo- que busca colaboradores- programadores aquí. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

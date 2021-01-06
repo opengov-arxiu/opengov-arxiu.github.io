@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: castellano resumen	</title>
+	<atom:link href="/opengovcat/es/castellano/feed/" rel="self" type="application/rss+xml" />
+	<link>/opengovcat/</link>
+	<description>Explorando la Generalitat</description>
+	<lastBuildDate>Thu, 12 Jul 2018 22:35:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		Por: Encuentro de iniciativas ciudadanas para la transparencia		</title>
+		<link>/opengovcat/es/castellano/#comment-418</link>
+
+		<dc:creator><![CDATA[Encuentro de iniciativas ciudadanas para la transparencia]]></dc:creator>
+		<pubDate>Thu, 12 Jul 2018 22:35:07 +0000</pubDate>
+		<guid isPermaLink="false">http://18.184.0.9/?page_id=442#comment-418</guid>
+
+					<description><![CDATA[[&#8230;] opengov.cat es un proyecto de transparencia de la Generalitat de Catalunya con Martin Virtel para visualizar su estructura y los cambios diarios en la misma. Resumen de historias aquí. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] opengov.cat es un proyecto de transparencia de la Generalitat de Catalunya con Martin Virtel para visualizar su estructura y los cambios diarios en la misma. Resumen de historias aquí. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
